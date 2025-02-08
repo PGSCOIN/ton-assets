@@ -354,21 +354,6 @@
   ]
  },
  {
-  "address": "0:7fc44f85a1340e9af09a07b259e57d47e6f11add8ec582141dbd1c971992ccff",
-  "description": "This token was created by Nyx Astreides and will be used in all projects affiliated with his name and his companies. This is not a celeb coin and not a meme coin. It was created for fundraising to implement in all the projects of Nyx.",
-  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqb_xe-fotqomvcab7jz5x1h5vea3y7fghqdvryxgzlm_9qt.png?size=lg&key=8b30c5",
-  "name": "Astreides",
-  "social": [
-   "https://t.me/AstreidesFoundation",
-   "https://t.me/AstreidesChat",
-   "https://x.com/AstreidesAI"
-  ],
-  "symbol": "ASTRE",
-  "websites": [
-   "www.astreides.com"
-  ]
- },
- {
   "address": "0:e6c34c46f6617597428b81c8ec0e79eeefd4a4334238a34f6d026467914049ba",
   "description": "The original and most important culture memecoin on TON. $BALD is the movement of polished domes and unstoppable gains. Truly fair launched, real roadmap with doxxed founders. Created by @CoreyWilton | @BaldWorldOrder on Telegram and X.",
   "image": "https://bald.sgp1.cdn.digitaloceanspaces.com/logo.png",
@@ -888,21 +873,6 @@
   "symbol": "CRYSTALS",
   "websites": [
    "https://app.runeston.org/"
-  ]
- },
- {
-  "address": "0:f43657c584aae26364f12eb76281e2db2214e43c108c569f5af339a91688598b",
-  "description": "Cybercoin is the digital currency designed to power the Cyberverse. Unlike typical meme coins, Cybercoin is planned with scalability, serving as the primary medium of exchange for goods within the Cyberverse ecosystem. With seamless integration into the Cyberverse's economy, Cybercoin will become the backbone of a thriving virtual world.",
-  "image": "https://i.postimg.cc/YSB0tdYJ/Cyber-Cars-Square-CC.png",
-  "name": "Cyber Technology Coin",
-  "social": [
-   "https://t.me/CyberCarsPublic",
-   "https://t.me/CyberCarsChat",
-   "https://x.com/CyberCarsLive"
-  ],
-  "symbol": "CTC",
-  "websites": [
-   "https://cybercarsgarage.com"
   ]
  },
  {
@@ -2094,6 +2064,19 @@
   "symbol": "KIRBY",
   "websites": [
    "https://bigkirby.xyz"
+  ]
+ },
+ {
+  "address": "0:6553fb4a2128297a978c153f6ddf14c37a2566a36e5d5bfe2f50e97a8c877f04",
+  "description": "Kote Coin. It's the only one.",
+  "name": "Kote Coin",
+  "social": [
+   "https://t.me/KoteCoin",
+   "https://t.me/KoteCoinRU"
+  ],
+  "symbol": "KOTE",
+  "websites": [
+   "https://kotecoin.com/"
   ]
  },
  {
@@ -3688,21 +3671,6 @@
   ]
  },
  {
-  "address": "0:7d401aa78852348ce9b0dcf53abf5bf82d4dd28af9bdc8f5c30c1f507fb7174c",
-  "description": "Simple Coin - \u0434\u0435\u0444\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u0438 \u0440\u0435\u0432\u0430\u0440\u0434\u043d\u044b\u0439 \u0442\u043e\u043a\u0435\u043d, \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043d\u044b\u0439 \u043d\u0430 \u0432\u0441\u0435\u043e\u0431\u0449\u0443\u044e \u0434\u0435\u0446\u0435\u043d\u0442\u0440\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044e.",
-  "image": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.geckoterminal.com%2Foy4sgewiz736fm1h9dmpic37w5dp&w=32&q=75",
-  "name": "Simple Coin",
-  "social": [
-   "https://t.me/just_a_simple_coin",
-   "https://t.me/simplecoin_chatSC",
-   "https://x.com/SimpleCoin_Move"
-  ],
-  "symbol": "SC",
-  "websites": [
-   "http://movement-simplecoin.ru/"
-  ]
- },
- {
   "address": "0:cd2ebaf09bb9652a471ed1802b0dbe778de10fdeb4519c9569bc3280d7aef94f",
   "description": "NFT Sticker on TON. Girl meta. Community take over.",
   "image": "https://raw.githubusercontent.com/SteamyJulia/crypto-assets/main/julia%20(1).png",
@@ -4491,21 +4459,6 @@
   "symbol": "YUME",
   "websites": [
    "https://www.yumeonton.com/"
-  ]
- },
- {
-  "address": "0:bd0db04a122ea06f39fce5710d0c34e5bbd99644b301f1c0659b7d45f3473476",
-  "description": "Token for ZEN ecosystem",
-  "image": "https://zencoin.dev/coin.png",
-  "name": "Zencoin",
-  "social": [
-   "https://t.me/zencoin",
-   "https://t.me/zencoin_community",
-   "https://x.com/zencoin_dev"
-  ],
-  "symbol": "ZEN",
-  "websites": [
-   "https://zencoin.dev"
   ]
  },
  {
